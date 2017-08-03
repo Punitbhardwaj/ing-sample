@@ -1,0 +1,17 @@
+{
+  "name": "ing-sample",
+  "description": "",
+  "main": "https://github.com/Punitbhardwaj/ing-sample",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-card": "PolymerElements/paper-card#^2.0.0"
+  }
+}
